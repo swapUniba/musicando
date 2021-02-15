@@ -1,0 +1,10 @@
+1;good, happy, fun, enjoy, emotion, fantastic
+2;sad, pain, bad, blue, negative
+3;relax, sleep, calm, peace, good, bad
+4;gym, workout, swim, sport, boxe, fitness
+5;study, read, focus, meditatate
+6;home, house, cook, clean
+7;car, drive, travel, trip
+8;alone, sad, lyric, bad, emotion
+9;friends, party, dance, fun, together, friendship
+10;romantic, couple, love, girlfriend, boyfriend
